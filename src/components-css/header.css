@@ -1,0 +1,36 @@
+ header {
+      background: #FFF7E2;
+      padding: 20px 0;
+      text-align: center;
+      border-bottom: 1px solid #eee;
+      /* Drop shadow only for header */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+     nav {
+      margin-top: 10px;
+    }
+     nav a {
+      margin: 0 18px;
+      font:Poppins;
+      text-decoration: none;
+      color: #3a5d3a;
+      font-family: 'Poppins', sans-serif;
+  font-weight: 400; /* Regular */
+    }
+    nav a 
+     .Logo {
+      font-size: 1.7em;
+      letter-spacing: 2px;
+      color: #3a5d3a;
+      font-weight: bold;
+    }
+    .hero {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 60px 8% 40px 8%;
+      background: linear-gradient(90deg, #fffbe9 60%, #fdf6e9 100%);
+    }
+ .hero-content {
+      max-width: 500px;
+    }
