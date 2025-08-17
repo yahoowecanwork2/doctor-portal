@@ -4,7 +4,7 @@
       text-align: center;
       border-bottom: 1px solid #eee;
       /* Drop shadow only for header */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.04);
     }
      nav {
       margin-top: 10px;
@@ -24,13 +24,4 @@
       color: #3a5d3a;
       font-weight: bold;
     }
-    .hero {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 60px 8% 40px 8%;
-      background: linear-gradient(90deg, #fffbe9 60%, #fdf6e9 100%);
-    }
- .hero-content {
-      max-width: 500px;
-    }
+    
